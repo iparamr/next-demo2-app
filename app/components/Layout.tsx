@@ -10,7 +10,6 @@ const Layout = ({
   }>) => {
   return (
     <>
-      {/* <Meta /> */}
       <Nav />
       <div className={styles.container}>
         <main className={styles.main}>
